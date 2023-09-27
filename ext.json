@@ -1,0 +1,118 @@
+[
+  { "format": "JPEG", "extensions": ["jpg"] },
+  { "format": "PNG", "extensions": ["png"] },
+  { "format": "GIF", "extensions": ["gif"] },
+  { "format": "WebP", "extensions": ["webp"] },
+  { "format": "BMP", "extensions": ["bmp"] },
+  { "format": "TIFF", "extensions": ["tiff", "tif"] },
+  { "format": "ICO", "extensions": ["ico"] },
+  { "format": "SVG", "extensions": ["svg"] },
+  { "format": "APNG", "extensions": ["apng"] },
+  { "format": "HDR", "extensions": ["hdr"] },
+  { "format": "AVIF", "extensions": ["avif"] },
+  { "format": "LSM", "extensions": ["lsm"] },
+  { "format": "PSD", "extensions": ["psd"] },
+  { "format": "AI", "extensions": ["ai"] },
+
+
+
+
+  { "format": "MP4", "extensions": ["mp4"] },
+  { "format": "WebM", "extensions": ["webm"] },
+  { "format": "Ogg", "extensions": ["ogg"] },
+  { "format": "MP3", "extensions": ["mp3"] },
+  { "format": "WAV", "extensions": ["wav"] },
+  { "format": "AAC", "extensions": ["aac"] },
+  { "format": "FLAC", "extensions": ["flac"] },
+  { "format": "WMV", "extensions": ["wmv"] },
+  { "format": "RM ", "extensions": ["rm", "rmvb"] },
+  { "format": "MKV ", "extensions": ["mkv"] },
+  { "format": "FLV ", "extensions": ["flv"] },
+  { "format": "AVI ", "extensions": ["avi"] },
+  { "format": "MOV ", "extensions": ["mov"] },
+  { "format": "3GP ", "extensions": ["3gp"] },
+  { "format": "GVI ", "extensions": ["gvi"] },
+  { "format": "M2V ", "extensions": ["m2v"] },
+  { "format": "M4V ", "extensions": ["m4v"] },
+  { "format": "MPG", "extensions": ["mpg"] },
+  { "format": "OGV ", "extensions": ["ogv"] },
+  { "format": "MPEG ", "extensions": ["mpeg"] },
+
+
+
+
+
+  { "format": "MP3", "extensions": ["mp3"] },
+  { "format": "OGG", "extensions": ["ogg"] },
+  { "format": "WAV", "extensions": ["wav"] },
+  { "format": "AAC", "extensions": ["aac"] },
+  { "format": "FLAC", "extensions": ["flac"] },
+
+
+
+
+  { "format": "PDF", "extensions": ["pdf"] },
+  { "format": "Microsoft Word", "extensions": ["doc", "docx"] },
+  { "format": "Microsoft Excel", "extensions": ["xls", "xlsx"] },
+  { "format": "Microsoft PowerPoint", "extensions": ["ppt", "pptx"] },
+  { "format": "OpenDocument Text", "extensions": ["odt"] },
+  { "format": "OpenDocument Spreadsheet", "extensions": ["ods"] },
+  { "format": "OpenDocument Presentation", "extensions": ["odp"] },
+  { "format": "Plain Text", "extensions": ["txt"] },
+  { "format": "Rich Text Format", "extensions": ["rtf"] },
+  { "format": "Comma-Separated Values", "extensions": ["csv"] },
+  { "format": "Portable Network Graphics", "extensions": ["png"] },
+
+
+
+
+
+
+  { "format": "ZIP", "extensions": ["zip"] },
+  { "format": "RAR", "extensions": ["rar"] },
+  { "format": "7-Zip", "extensions": ["7z"] },
+  { "format": "Tarball", "extensions": ["tar"] },
+  { "format": "GZIP", "extensions": ["gz"] },
+  { "format": "BZIP2", "extensions": ["bz2"] },
+  { "format": "XZ", "extensions": ["xz"] },
+  { "format": "LZIP", "extensions": ["lz"] },
+  { "format": "TGZ", "extensions": ["tgz"] },
+  { "format": "ISO", "extensions": ["iso"] },
+  { "format": "TXZ", "extensions": ["txz"] },
+
+
+
+
+  { "format": "TrueType Font", "extensions": ["ttf"] },
+  { "format": "OpenType Font", "extensions": ["otf"] },
+  { "format": "Web Open Font Format (WOFF)", "extensions": ["woff"] },
+  { "format": "Web Open Font Format 2 (WOFF2)", "extensions": ["woff2"] },
+
+
+
+
+  { "format": "Comma-Separated Values (CSV)", "extensions": ["csv"] },
+  { "format": "JSON", "extensions": ["json"] },
+  { "format": "XML", "extensions": ["xml"] },
+  { "format": "Excel Spreadsheet", "extensions": ["xls", "xlsx"] },
+  { "format": "Tab-Separated Values (TSV)", "extensions": ["tsv"] },
+  { "format": "JavaScript Object Notation (JSONL)", "extensions": ["jsonl"] },
+  { "format": "HDF5", "extensions": ["h5", "hdf5"] },
+  { "format": "SQLite Database", "extensions": ["sqlite", "db", "db3"] },
+
+
+
+  { "format": "Plain Text", "extensions": ["txt"] },
+  { "format": "Markdown", "extensions": ["md"] },
+  { "format": "Rich Text Format", "extensions": ["rtf"] },
+  { "format": "HTML", "extensions": ["html", "htm"] },
+  { "format": "CSS", "extensions": ["css"] },
+  { "format": "JavaScript", "extensions": ["js"] },
+  { "format": "XML", "extensions": ["xml"] },
+  { "format": "JSON", "extensions": ["json"] },
+  { "format": "CSV (Comma-Separated Values)", "extensions": ["csv"] },
+  { "format": "TSV (Tab-Separated Values)", "extensions": ["tsv"] },
+  { "format": "SQL", "extensions": ["sql"] },
+  { "format": "YAML", "extensions": ["yaml", "yml"] },
+  { "format": "INI", "extensions": ["ini"] }
+]
